@@ -32,7 +32,7 @@ Onde podem me encontrar:
 
 ### Análise de Vendas Contoso
 <img align="right" width="500" src="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
-Projeto desenvolvido para análise e entendimento do marketing do conglomerado de fabrico global fictício Contoso Corporation, utlizando linguagem SQL para consulta ao banco de dados.
+Projeto desenvolvido para análise e entendimento do marketing do conglomerado fabrico global fictício Contoso Corporation, utlizando linguagem SQL para consulta ao banco de dados.
 Principais desafios: <br>
 - Desenvolver consultas exploratorias utilizando linguagem SQL.<br>
 - Estatística descritiva com as principais características das vendas da base de dados Contoso.<br>
