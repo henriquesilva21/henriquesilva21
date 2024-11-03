@@ -23,7 +23,11 @@ Principais Ferramentas:
 Onde podem me encontrar:
 <div>
   <a href="https://www.linkedin.com/in/henrique-silva-b8847727a/">
+  <a href="https://www.instagram.com/henrique_silvac/">
+ <a href="https://www.facebook.com/profile.php?id=100026716207093">
     <img height="40" width="40"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/linkedin.png">
+    <img height="40" width="40"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/instagram.png">
+    <img height="40" width="40"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/facebook.png">
   </a>
 </div>
 
