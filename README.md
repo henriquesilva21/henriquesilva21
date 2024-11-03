@@ -13,6 +13,7 @@ Sobre mim:
 Principais Ferramentas:
 
 <div>
+   <img height="40" width="40" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Excel-Logo.png">
   <img height="40" width="40" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/sql.png">
   <img height="40" width="40" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/power%20bi.png">
 </div>
