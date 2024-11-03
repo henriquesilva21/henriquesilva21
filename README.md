@@ -13,16 +13,16 @@ Sobre mim:
 Principais Ferramentas:
 
 <div>
-  <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/linguagens/sql.png?raw=true">
-  <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+  <img height="40" width="40" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/sql.png">
+  <img height="40" width="40" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/power%20bi.png">
 </div>
 
 <br>
 
 Onde podem me encontrar:
 <div>
-  <a href="https://www.linkedin.com/in/bruce-fonseca/">
-    <img height="40" width="40"  src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/henrique-silva-b8847727a/">
+    <img height="40" width="40"  src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/linkedin.png">
   </a>
 </div>
 
@@ -31,8 +31,9 @@ Onde podem me encontrar:
 ## Portfólio e Principais Projetos
 
 ### Análise de Vendas Contoso
-<img align="right" width="500" src="https://github.com/BruceFonseca2/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+<img align="right" width="500" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Contoso%20Power%20BI.PNG">
 Projeto desenvolvido para análise e entendimento do marketing do conglomerado fabrico global fictício Contoso Corporation, utlizando linguagem SQL para consulta ao banco de dados.
+
 Principais desafios: <br>
 - Desenvolver consultas exploratorias utilizando linguagem SQL.<br>
 - Estatística descritiva com as principais características das vendas da base de dados Contoso.<br>
