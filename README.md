@@ -45,6 +45,6 @@ Principais desafios: <br>
 - Medir a performance e variação das vendas ao longo do tempo, identificando as principais fontes de crescimento das seguimentações das vendas.
 <br>
 <br>
-<a href="https://github.com/BruceFonseca2/AdventureWorksPortfolio"> Clique arqui</a>  para acessar o repositório no Github
+<a href="https://github.com/henriquesilva21/ContosoPortifolio"> Clique arqui</a>  para acessar o repositório no Github
 <br>
-<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" >Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a target="_blank" href="https://app.powerbi.com/groups/me/reports/9e354a1c-d331-4bb7-a5bf-d5fd53de7e96/ReportSectionf1b66389b906b217c252?experience=power-bi" >Clique aqui</a> e acesse o a solução desenvolvida para a empresa Contoso Corporation.
