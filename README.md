@@ -1,6 +1,6 @@
 ### Hello world, I'm Henrique👋
 
-## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
+## Especialista em Business Intelligence,  <br>Análise de Dados
 
 Sobre mim:
 
