@@ -4,7 +4,7 @@
 
 Sobre mim:
 
-- 🔭 Atualmente procuro emprego como Data Analyst 
+- 🔭 Atualmente procuro emprego como Data Analyst ou Business Intelligence 
 - 🏠 Atualmente moro no Brasil
 - 🤓 Analista de Dados Junior
 
