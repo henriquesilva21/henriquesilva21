@@ -37,7 +37,7 @@ Onde podem me encontrar:
 
 ### Análise de Vendas Contoso
 <img align="right" width="500" src="https://github.com/henriquesilva21/ContosoPortifolio/blob/main/Imagens/Ferramentas/Contoso%20Power%20BI.PNG">
-Projeto desenvolvido para análise e entendimento do marketing do conglomerado fabrico global fictício Contoso Corporation, utlizando linguagem SQL para consulta ao banco de dados.
+Projeto desenvolvido para análise e direcionamento do marketing do conglomerado fabrico global fictício Contoso Corporation, utlizando linguagem SQL para consulta ao banco de dados.
 
 Principais desafios: <br>
 - Desenvolver consultas exploratorias utilizando linguagem SQL.<br>
